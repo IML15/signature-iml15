@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "firma-iml15"
+name = "signature-iml15"
 version = "1.0.0"
 description = "Firma animada de IML15 (agujero negro ASCII) para la terminal"
 readme = "README.md"
@@ -11,4 +11,4 @@ requires-python = ">=3.8"
 authors = [{ name = "IML15" }]
 
 [project.scripts]
-firma-iml15 = "firma_iml15.firma:mostrar_firma"
+signature-iml15 = "firma_iml15.firma:mostrar_firma"

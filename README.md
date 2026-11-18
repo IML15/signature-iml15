@@ -5,7 +5,7 @@ Firma animada de **IML15** para la terminal: un agujero negro en ASCII que se es
 ## Instalación
 
 ```bash
-pip install git+https://github.com/IML15/firma-iml15.git
+pip install git+https://github.com/IML15/signature-iml15.git
 ```
 
 ## Uso
@@ -27,5 +27,5 @@ python -m firma_iml15
 ## Actualizar
 
 ```bash
-pip install --upgrade git+https://github.com/IML15/firma-iml15.git
+pip install --upgrade git+https://github.com/IML15/signature-iml15.git
 ```
